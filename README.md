@@ -93,10 +93,6 @@ Dataset
 
 > ⚠️ 제공된 데이터 구성에서는 Test Set의 클래스 라벨을 확인할 수 없어, 본 프로젝트의 모델 성능 평가는 Train에서 분리한 Validation Set을 기준으로 수행했습니다.
 
-### Data Distribution
-
-![Class Distribution](images/data_audit_class_distribution.png)
-
 ---
 
 ## 3. Model
@@ -178,7 +174,7 @@ Train 데이터에는 augmentation을 적용하고 Validation 데이터에는 �
 
 **Validation Accuracy: 36.96%**
 
-![Validation Accuracy Comparison](images/val_accuracy_comparison.png)
+![Validation Accuracy Comparison](./images/val_accuracy_comparison.png)
 
 Transfer Learning만으로는 Stanford Cars의 세부 차종을 충분히 구분하는 데 한계가 있음을 확인했습니다.
 
