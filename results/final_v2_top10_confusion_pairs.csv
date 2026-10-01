@@ -1,0 +1,11 @@
+﻿true_idx,pred_idx,true_class,pred_class,count
+13,18,Audi TTS Coupe 2012,Audi TT Hatchback 2011,6
+17,16,Audi 100 Wagon 1994,Audi 100 Sedan 1994,5
+82,83,Dodge Caliber Wagon 2012,Dodge Caliber Wagon 2007,4
+42,43,Bentley Continental GT Coupe 2007,Bentley Continental Flying Spur Sedan 2007,4
+70,63,Chevrolet Express Van 2007,Chevrolet Express Cargo Van 2007,4
+73,53,Chevrolet Silverado 1500 Extended Cab 2012,Chevrolet Silverado 1500 Hybrid Crew Cab 2012,4
+7,35,Aston Martin V8 Vantage Convertible 2012,BMW M6 Convertible 2010,3
+175,176,Rolls-Royce Ghost Sedan 2012,Rolls-Royce Phantom Sedan 2012,3
+57,120,Chevrolet Traverse SUV 2012,GMC Acadia SUV 2012,3
+112,113,Ford F-150 Regular Cab 2012,Ford F-150 Regular Cab 2007,3

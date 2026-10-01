@@ -1,0 +1,8 @@
+Metric,Value
+Accuracy,0.7329650092081031
+Macro Precision,0.7574374763225303
+Macro Recall,0.7311953352769679
+Macro F1,0.7301682740996019
+Weighted F1,0.7320306231962503
+Best Epoch,14.0
+Best Validation Loss,14.0

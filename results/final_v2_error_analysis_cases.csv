@@ -1,0 +1,4 @@
+﻿case,true_idx,pred_idx,true_class,pred_class,confusion_count,misclassified_image,predicted_class_reference
+1,13,18,Audi TTS Coupe 2012,Audi TT Hatchback 2011,6,/content/stanford_cars/cars_train/cars_train/00411.jpg,/content/stanford_cars/cars_train/cars_train/00408.jpg
+2,17,16,Audi 100 Wagon 1994,Audi 100 Sedan 1994,5,/content/stanford_cars/cars_train/cars_train/05869.jpg,/content/stanford_cars/cars_train/cars_train/05177.jpg
+3,82,83,Dodge Caliber Wagon 2012,Dodge Caliber Wagon 2007,4,/content/stanford_cars/cars_train/cars_train/07397.jpg,/content/stanford_cars/cars_train/cars_train/05598.jpg

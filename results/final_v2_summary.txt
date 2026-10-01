@@ -1,0 +1,29 @@
+Stanford Cars - Final ResNet50 Model
+==================================================
+
+Model
+--------------------------------------------------
+Backbone: ResNet50
+Pretrained: ImageNet
+Fine-tuning: Layer4 + FC
+Classes: 196
+Optimizer: AdamW
+Learning Rate: 1e-4
+Weight Decay: 1e-4
+Maximum Epochs: 20
+Early Stopping Patience: 3
+
+Training Result
+--------------------------------------------------
+Best Accuracy Epoch: 14
+Best Accuracy: 0.7330 (73.30%)
+Best Loss Epoch: 14
+Best Validation Loss: 0.9866
+
+Evaluation Metrics
+--------------------------------------------------
+Accuracy: 0.7330 (73.30%)
+Macro Precision: 0.7574
+Macro Recall: 0.7312
+Macro F1: 0.7302
+Weighted F1: 0.7320
